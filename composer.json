@@ -1,0 +1,19 @@
+{
+    "name": "test1643/contact",
+    "description": "Contactus page",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "heer dholakia",
+            "email": "heer.d@yudiz.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "test1643\\Contact\\": "src/"
+        }
+    }
+}
